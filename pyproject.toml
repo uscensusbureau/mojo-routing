@@ -10,5 +10,6 @@ dependencies = [
 ]
 
 [[tool.uv.index]]
-url = "https://<INTERNAL-PYPI-REGISTRY>/repository/pypi-group/simple"
+# url = "https://<INTERNAL-PYPI-REGISTRY>/repository/pypi-group/simple"
+url = "https://pypi.org/simple"
 default = true
